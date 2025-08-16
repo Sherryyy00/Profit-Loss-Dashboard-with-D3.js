@@ -39,7 +39,7 @@ cd profit-loss-dashboard
 
 ## 🎥 Demo Preview
 
-![Waterfall Chart Demo](/assets/demo.gif)
+![Waterfall Chart Demo](demo.gif)
 
 ---
 ## 🧠 Key Learnings
