@@ -32,8 +32,12 @@ The dashboard uses **d3.rollups** for efficient data aggregation and a **Waterfa
 ---
 
 ## 🚀 How to Run
-git clone https://github.com/sherryyy00/profit-loss-dashboard.git
-cd profit-loss-dashboard
+No build step. Clone it and open `Waterfall_Chart.html` in a browser, or serve the folder locally:
+```bash
+git clone https://github.com/Sherryyy00/Profit-Loss-Dashboard-with-D3.js.git
+cd Profit-Loss-Dashboard-with-D3.js
+python -m http.server 8000   # then open http://localhost:8000
+```
 
 ---
 
